@@ -151,14 +151,4 @@ To contribute:
 This project is licensed under MIT License – see LICENSE
  for details.
  ---
- ## 🎯 Learning Outcomes & Skills Demonstrated
-
-Modular Python coding and package structure (__init__.py, multiple Python modules)
-
-Hugging Face Spaces deployment and GitHub integration
-
-Image processing and AI caption generation with BLIP model
-
-Building interactive web apps with Gradio
-
-Professional documentation suitable for CV and portfolio
+ 
