@@ -1,0 +1,7 @@
+gradio==5.23.2
+numpy
+Pillow
+requests
+beautifulsoup4
+transformers
+torch
