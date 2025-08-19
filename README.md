@@ -146,9 +146,4 @@ To contribute:**
 
  ---
  
- ## 📌 License
-
-This project is licensed under MIT License – see LICENSE
- for details.
- ---
  
