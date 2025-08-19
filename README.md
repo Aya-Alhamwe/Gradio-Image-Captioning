@@ -144,6 +144,9 @@ To contribute:**
 
 - Create a Pull Request
 
+- 
+🔗 Check it out on Hugging Face: Gradio Image Captioning - a Hugging Face Space by aya369
+
  ---
  
  
