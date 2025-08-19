@@ -87,8 +87,8 @@ Use the URL Image Captioning tab to generate captions from a webpage
 
  ## 🌐 Deployment on Hugging Face Spaces
 
-** The project is already deployed at:
-- Gradio Image Captioning Space
+**The project is already deployed at:
+- Gradio Image Captioning Space**
 
 - No local installation required
 
