@@ -110,11 +110,11 @@ Use the URL Image Captioning tab to generate captions from a webpage
 
  ## 🔧 How It Works
 
-Image Upload: The user uploads an image → converted to RGB → processed with BLIP → caption generated.
+- Image Upload: The user uploads an image → converted to RGB → processed with BLIP → caption generated.
 
-Webpage URL: The user inputs a URL → HTML is fetched → images are filtered by size → processed with BLIP → captions returned.
+- Webpage URL: The user inputs a URL → HTML is fetched → images are filtered by size → processed with BLIP → captions returned.
 
-Gradio Interface: Two tabs allow easy access and interaction, making AI accessible without code.
+- Gradio Interface: Two tabs allow easy access and interaction, making AI accessible without code.
 
  ## 📄 Requirements
 ```
