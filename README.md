@@ -54,24 +54,30 @@ To run this project locally, follow these steps:
 
 Clone the repository
 
+```
 git clone https://github.com/Aya-Alhamwe/Gradio-Image-Captioning.git
 cd Gradio-Image-Captioning
-
+```
 
 Create a virtual environment (optional but recommended)
 
+```
 python -m venv venv
 source venv/bin/activate       # MacOS/Linux
 venv\Scripts\activate          # Windows
-
+```
 
 Install dependencies
 
+```
 pip install -r requirements.txt
+```
 
 🖥 Running the App Locally
-python app.py
 
+```
+python app.py
+```
 
 Open your browser at http://127.0.0.1:7860 (default Gradio port)
 
@@ -111,6 +117,7 @@ Webpage URL: The user inputs a URL → HTML is fetched → images are filtered b
 Gradio Interface: Two tabs allow easy access and interaction, making AI accessible without code.
 
 📄 Requirements
+```
 gradio[oauth,mcp]==5.42.0
 transformers
 torch
@@ -118,7 +125,7 @@ Pillow
 numpy
 requests
 beautifulsoup4
-
+```
 
 Additional dependencies can be installed via requirements.txt.
 
