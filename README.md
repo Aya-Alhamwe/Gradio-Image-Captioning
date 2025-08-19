@@ -48,7 +48,7 @@ Gradio-Image-Captioning/
 └── .gitignore              # Git ignore rules
 ```
 
-⚙️ Installation
+## ⚙️ Installation
 
 To run this project locally, follow these steps:
 
@@ -73,7 +73,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-🖥 Running the App Locally
+ ## 🖥 Running the App Locally
 
 ```
 python app.py
@@ -85,7 +85,7 @@ Use the Upload Image tab to test single images
 
 Use the URL Image Captioning tab to generate captions from a webpage
 
-🌐 Deployment on Hugging Face Spaces
+ ## 🌐 Deployment on Hugging Face Spaces
 
 The project is already deployed at:
 Gradio Image Captioning Space
@@ -96,7 +96,7 @@ Interactive interface runs directly in the browser
 
 Auto-updates whenever code is pushed to the linked GitHub repository
 
-🛠 Technology Stack
+ ## 🛠 Technology Stack
 
 Python 3.10 – Core programming language
 
@@ -108,7 +108,7 @@ Pillow & NumPy – Image processing
 
 Requests & BeautifulSoup4 – Web scraping for URL images
 
-🔧 How It Works
+ ## 🔧 How It Works
 
 Image Upload: The user uploads an image → converted to RGB → processed with BLIP → caption generated.
 
@@ -116,7 +116,7 @@ Webpage URL: The user inputs a URL → HTML is fetched → images are filtered b
 
 Gradio Interface: Two tabs allow easy access and interaction, making AI accessible without code.
 
-📄 Requirements
+ ## 📄 Requirements
 ```
 gradio[oauth,mcp]==5.42.0
 transformers
@@ -129,7 +129,7 @@ beautifulsoup4
 
 Additional dependencies can be installed via requirements.txt.
 
-🧩 Contribution
+ ## 🧩 Contribution
 
 Contributions are welcome!
 To contribute:
@@ -144,12 +144,12 @@ Push to the branch (git push origin feature-name)
 
 Create a Pull Request
 
-📌 License
+ ## 📌 License
 
 This project is licensed under MIT License – see LICENSE
  for details.
 
-🎯 Learning Outcomes & Skills Demonstrated
+ ## 🎯 Learning Outcomes & Skills Demonstrated
 
 Modular Python coding and package structure (__init__.py, multiple Python modules)
 
