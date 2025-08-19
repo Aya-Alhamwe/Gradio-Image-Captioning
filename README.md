@@ -87,26 +87,26 @@ Use the URL Image Captioning tab to generate captions from a webpage
 
  ## 🌐 Deployment on Hugging Face Spaces
 
-The project is already deployed at:
-Gradio Image Captioning Space
+**The project is already deployed at:
+- Gradio Image Captioning Space
 
-No local installation required
+- No local installation required
 
-Interactive interface runs directly in the browser
+- Interactive interface runs directly in the browser
 
-Auto-updates whenever code is pushed to the linked GitHub repository
+- Auto-updates whenever code is pushed to the linked GitHub repository
 
  ## 🛠 Technology Stack
 
-Python 3.10 – Core programming language
+- Python 3.10 – Core programming language
 
-Gradio 5.42 – Interactive GUI library
+- Gradio 5.42 – Interactive GUI library
 
-Transformers (BLIP) – Pretrained image captioning model
+- Transformers (BLIP) – Pretrained image captioning model
 
-Pillow & NumPy – Image processing
+- Pillow & NumPy – Image processing
 
-Requests & BeautifulSoup4 – Web scraping for URL images
+- Requests & BeautifulSoup4 – Web scraping for URL images
 
  ## 🔧 How It Works
 
@@ -131,24 +131,26 @@ Additional dependencies can be installed via requirements.txt.
 
  ## 🧩 Contribution
 
-Contributions are welcome!
+**Contributions are welcome!
 To contribute:
 
-Fork the repository
+- Fork the repository
 
-Create a feature branch (git checkout -b feature-name)
+- Create a feature branch (git checkout -b feature-name)
 
-Commit your changes (git commit -m "Add new feature")
+- Commit your changes (git commit -m "Add new feature")
 
-Push to the branch (git push origin feature-name)
+- Push to the branch (git push origin feature-name)
 
-Create a Pull Request
+- Create a Pull Request
 
+ ---
+ 
  ## 📌 License
 
 This project is licensed under MIT License – see LICENSE
  for details.
-
+ ---
  ## 🎯 Learning Outcomes & Skills Demonstrated
 
 Modular Python coding and package structure (__init__.py, multiple Python modules)
