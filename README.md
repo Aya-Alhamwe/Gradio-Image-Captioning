@@ -46,7 +46,7 @@ Gradio-Image-Captioning/
 
 ├── README.md               # Project documentation
 └── .gitignore              # Git ignore rules
-
+```
 
 ⚙️ Installation
 
