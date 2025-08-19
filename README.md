@@ -5,6 +5,8 @@
 **Author:** Aya Alhamwe  
 **Platform:** Hugging Face Spaces | Python | Gradio | Transformers (BLIP)  
 
+🔗 Check it out on Hugging Face: [Gradio Image Captioning - a Hugging Face Space by aya369](https://huggingface.co/spaces/aya369/gradio-image-captioning)
+
 ---
 
 ## 📖 Project Overview
@@ -143,9 +145,6 @@ To contribute:**
 - Push to the branch (git push origin feature-name)
 
 - Create a Pull Request
-
-- 
-🔗 Check it out on Hugging Face: Gradio Image Captioning - a Hugging Face Space by aya369
 
  ---
  
