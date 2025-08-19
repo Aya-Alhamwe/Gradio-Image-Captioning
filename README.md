@@ -132,7 +132,7 @@ Additional dependencies can be installed via requirements.txt.
  ## 🧩 Contribution
 
 **Contributions are welcome!
-To contribute:
+To contribute:**
 
 - Fork the repository
 
