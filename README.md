@@ -1,6 +1,6 @@
 # Gradio Image Captioning
 
-![Project Banner]([https://huggingface.co/spaces/aya369/gradio-image-captioning/resolve/main/banner.png](https://github.com/Aya-Alhamwe/Gradio-Image-Captioning/blob/main/design.jpg))  
+![Project Banner]([https://huggingface.co/spaces/aya369/gradio-image-captioning/resolve/main/banner.png](https://github.com/Aya-Alhamwe/Gradio-Image-Captioning/blob/main/design.jpg)
 
 **Author:** Aya Alhamwe  
 **Platform:** Hugging Face Spaces | Python | Gradio | Transformers (BLIP)  
